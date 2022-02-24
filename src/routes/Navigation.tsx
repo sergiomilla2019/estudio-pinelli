@@ -1,8 +1,7 @@
 import {
   BrowserRouter as Router,
   Switch,
-  Route,
-  NavLink
+  Route
 } from 'react-router-dom';
 import { Navbar, Container, Nav } from 'react-bootstrap';
 import { Register } from '../pages/Register';
